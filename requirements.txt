@@ -1,0 +1,11 @@
+langchain-groq
+langchain-mcp-adapters
+mcp
+langgraph
+yfinance
+pydantic
+typer 
+rich 
+aiohttp 
+pandas
+fastapi
